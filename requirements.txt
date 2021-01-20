@@ -1,0 +1,1 @@
+apache-airflow[all]==1.10.14
